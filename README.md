@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flooksan
+- 👋 Hi, I’m @flooksan Industrial Engineer turn to Software develop
 - 👀 I’m interested in Full-Stack (interest Back-end).
 - 🌱 I’m currently learning HTML,CSS,Java,Pyhton,VBA,SQL,React.
 - 💪🤟 I’m looking to collaborate with other people who have a talent for coding.
