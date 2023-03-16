@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @flooksan Industrial Engineer turn to Software developer
 - 👀 I’m interested in Full-Stack (interest Back-end).
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, React, MongoDB, SQL, Pyhton, VBA.
+- 🌐 Language : TypeScript, JavaScript
+- ⚛️ Front-End: React, Next.js
+- 👨‍💻 Back-End: Node.js, Express.js, Nest,js
+- 🛢  Database: PostgreSql, MongoDB
+- 🐋 Other: Docker 
 - 💪🤟 I’m looking to collaborate with other people who have a talent for coding.
 - 📫 How to reach me My GitHub flooksan , other email : patipanmata@gmail.com.
 
