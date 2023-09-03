@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kloof.san/Flook.san</h1>
-<h3 align="center">Hi, I’m @flooksan Industrial Engineer turn to Fullstack developer</h3>
+<h1 align="left">Hi 👋, I'm Kloof.san/Flook.san</h1>
+<h3 align="left">Hi, I’m @flooksan Industrial Engineer turn to Fullstack developer</h3>
 
 - 🤝 I’m currently working on Full-Stack Developer
 
