@@ -7,7 +7,7 @@
 
 - 🌐 Programming Languages: **TypeScript, JavaScript**
 
-- 🍿 My hobby are **📖 Learning, 📚 Relax in Library, 😍 Anime and manga, 🥘 Buffet with friend **
+- 🍿 My hobby are 📖 **Learning, 📚 Relax in Library, 😍 Anime and manga, 🥘 Buffet with friend**
 
 - 📖 I’m currently learning on **Golang, Cloud Service(AWS)**
 
