@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flooksan&label=Profile%20views&color=0e75b6&style=flat" alt="flooksan" /> </p>
 
-- 🤝 I’m currently working on **Full-Stack Developer**
+- 🤝 I’m currently working on Full-Stack Developer
 
 - 🌐 Programming Languages: **TypeScript, JavaScript**
 
-- 🍿 My hobby are 📖 **Learning, 📚 Relax in Library, 😍 Anime and manga, 🥘 Buffet with friend**
+- 🍿 My hobby are 📖 Learning, 📚 Relax in Library, 😍 Anime and manga, 🥘 Buffet with friend
 
-- 📖 I’m currently learning on **Golang, Cloud Service(AWS)**
+- 📖 I’m currently learning on Golang, Cloud Service(AWS)
 
-- 📫 Contact patipanmata@gmail.com
+- 📫 Contact: patipanmata@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
