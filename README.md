@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flooksan&" alt="flooksan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flooksan&show_icons=true&locale=en&layout=compact" alt="flooksan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flooksan&size_weight=1&count_weight=0&show_icons=true&locale=en&layout=compact" alt="flooksan" /></p>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flooksan&label=Profile%20views&color=0e75b6&style=flat" alt="flooksan" /> </p>
 
